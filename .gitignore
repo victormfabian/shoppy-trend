@@ -1,0 +1,9 @@
+# Power BI cache/backups
+*.pbix.cache
+*.backup
+
+# Node.js dependencies (if any)
+node_modules/
+
+# Python bytecode
+__pycache__/
